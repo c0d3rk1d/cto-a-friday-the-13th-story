@@ -31,3 +31,13 @@ Engineer Boss with a prive office while rest of team looking for a table to sit 
 - 🧑‍🏫 Mentor - Growing the team so they don't rely on you forever
 - 🕵️‍♂️ Risk Manager - Balancing speed, security, scale
 
+## A Day in the Life
+
+- 8 AM: Debugging a production fire you didn’t start
+- 10 AM: Talking to investors about why your AI will change the world
+- 1 PM: Refactoring spaghetti code from MVP days
+- 3 PM: Sprint planning with product & design
+- 5 PM: Mentoring junior devs / coaching co-founder
+- 8 PM: Lying awake thinking about scale
+- 10 PM: Try to plan your day tommorowZzzz...
+
